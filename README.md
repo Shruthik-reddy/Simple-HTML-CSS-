@@ -1,1 +1,2 @@
-This repository contains simple HTML CSS applications
+This repository contains simple HTML CSS application 
+Go through the video to understand what it is
